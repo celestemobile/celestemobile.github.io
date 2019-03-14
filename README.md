@@ -3,15 +3,15 @@
 *Touch controls and offline-cache for CELESTE Classic*
 
 
-## [Live Demo!](https://bthei.github.io/classic/)
+## [Live Demo!](https://celestemobile.github.io)
 
 Open it on your smartphone, it works fine :)
 
 ## Mods
 
 Also supports some high quality mods made by the community:
-- [Adelie](https://bthei.github.io/classic/adelie.html)
-- [Old Site](https://bthei.github.io/classic/oldsite.html)
+- [Adelie](https://celestemobile.github.io/adelie)
+- [Old Site](https://celestemobile.github.io/oldsite)
 
 Check out the [original game](https://www.lexaloffle.com/bbs/?tid=2145) on the Lexaloffle BBS.
 
