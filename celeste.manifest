@@ -1,0 +1,5 @@
+CACHE MANIFEST
+#7 - This is a cache file necessary for offline use. When diabled, however, it allows for quicker updating.
+celeste.js
+index.html
+icon.png
