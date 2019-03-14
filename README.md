@@ -7,7 +7,7 @@
 
 Open it on your smartphone, it works fine :)
 
-NOTE: The controls use touch events, so they are not shown on desktop. If you wish to view the controls on desktop, you can simulate tough events with Google Chrome's developer tools.
+The controls use touch events, so they are not shown on desktop. If you wish to view the controls on desktop, you can simulate tough events with Google Chrome's developer tools.
 
 ## Mods
 
